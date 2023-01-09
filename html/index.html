@@ -4,11 +4,12 @@
     <title>html 1</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-
   <body>
-    <main id="main">
+    <header>
       <h1 id="title">Dr. Norman Borlaug</h1>
       <p>The man who saved a billion lives</p>
+    </header>
+    <main id="main">
       <figure id="img-div">
         <img
           id="image"
@@ -20,7 +21,7 @@
           on how to increase wheat yields - part of his life-long war on hunger.
         </figcaption>
       </figure>
-      <section>
+      <section id="tribute-info">
         <h3>Here's a time line of Dr. Borlaug's life:</h3>
         <ul>
           <li><strong>1914</strong> - Born in Cresco, Iowa</li>
@@ -95,24 +96,31 @@
           </li>
           <li><strong>2009</strong> - dies at the age of 95.</li>
         </ul>
+      </section>
+    </main>
+    <footer>
+      <blockquote>
         <p>
-          <em
-            >"Borlaug's life and achievement are testimony to the far-reaching
+          <em>
+            "Borlaug's life and achievement are testimony to the far-reaching
             contribution that one man's towering intellect, persistence and
             scientific vision can make to human peace and progress."
           </em>
         </p>
-        <p><em>-- Indian Prime Minister Manmohan Singh </em></p>
-        <p>
-          <strong
-            >If you have time, you should read more about this incredible human
-            being on his
-            <a href="https://en.wikipedia.org/wiki/Norman_Borlaug"
-              >Wikipedia entry</a
-            >.</strong
-          >
-        </p>
-      </section>
-    </main>
+        <cite>-- Indian Prime Minister Manmohan Singh </cite>
+      </blockquote>
+      <h3>
+        <strong
+          >If you have time, you should read more about this incredible human
+          being on his
+          <a
+            href="https://en.wikipedia.org/wiki/Norman_Borlaug"
+            id="tribute-link"
+            target="_blank"
+            >Wikipedia entry</a
+          >.</strong
+        >
+      </h3>
+    </footer>
   </body>
 </html>
