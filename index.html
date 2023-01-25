@@ -1,27 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>html 1</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dr. Norman Borlaug</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
-    <header>
-      <h1 id="title">Dr. Norman Borlaug</h1>
-      <p>The man who saved a billion lives</p>
-    </header>
-    <main id="main">
-      <figure id="img-div">
+    <main>
+      <header>
+        <h1 id="title">Dr. Norman Borlaug</h1>
+        <p>The man who saved a billion lives</p>
+      </header>
+      <figure>
         <img
           id="image"
           src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"
           alt="Dr. Norman Borlaug"
         />
-        <figcaption id="img-caption">
+        <figcaption>
           Dr. Norman Borlaug, third from the left, trains biologists in Mexico
           on how to increase wheat yields - part of his life-long war on hunger.
         </figcaption>
       </figure>
-      <section id="tribute-info">
+      <div>
         <h3>Here's a time line of Dr. Borlaug's life:</h3>
         <ul>
           <li><strong>1914</strong> - Born in Cresco, Iowa</li>
@@ -96,31 +100,30 @@
           </li>
           <li><strong>2009</strong> - dies at the age of 95.</li>
         </ul>
-      </section>
+      </div>
+      <footer>
+        <blockquote>
+          <p>
+            <em>
+              "Borlaug's life and achievement are testimony to the far-reaching
+              contribution that one man's towering intellect, persistence and
+              scientific vision can make to human peace and progress."
+            </em>
+          </p>
+          <cite>-- Indian Prime Minister Manmohan Singh </cite>
+        </blockquote>
+        <h3>
+          <strong
+            >If you have time, you should read more about this
+            <a
+              href="https://en.wikipedia.org/wiki/Norman_Borlaug"
+              id="tribute-link"
+              target="_blank"
+              >Wikipedia entry</a
+            ></strong
+          >
+        </h3>
+      </footer>
     </main>
-    <footer>
-      <blockquote>
-        <p>
-          <em>
-            "Borlaug's life and achievement are testimony to the far-reaching
-            contribution that one man's towering intellect, persistence and
-            scientific vision can make to human peace and progress."
-          </em>
-        </p>
-        <cite>-- Indian Prime Minister Manmohan Singh </cite>
-      </blockquote>
-      <h3>
-        <strong
-          >If you have time, you should read more about this incredible human
-          being on his
-          <a
-            href="https://en.wikipedia.org/wiki/Norman_Borlaug"
-            id="tribute-link"
-            target="_blank"
-            >Wikipedia entry</a
-          >.</strong
-        >
-      </h3>
-    </footer>
   </body>
 </html>
