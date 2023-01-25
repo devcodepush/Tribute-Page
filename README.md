@@ -1,13 +1,13 @@
 # Responsive Web Design Projects
 
-Tribute Page
+Tribute Page 
 
 A chance to apply all of my skills, principles, and concepts I have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 
 ### Prerequisites
 
