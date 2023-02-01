@@ -21,33 +21,9 @@ header {
   padding-top: 20px;
 }
 
-h1 {
+header > h1 {
   font-size: 4rem;
-  font-size: 3.5rem;
   line-height: 1.2;
-}
-
-h2 {
-  font-size: 3.25rem;
-}
-
-h3 {
-  padding: 20px;
-}
-
-a {
-  color: #477ca7;
-}
-
-a:visited {
-  color: #74638f;
-}
-
-img {
-  height: auto;
-  max-width: 100%;
-  display: block;
-  margin: 0 auto;
 }
 
 figure {
@@ -55,6 +31,13 @@ figure {
   padding: 0 12px 12px 12px;
   margin-left: 12px;
   margin-right: 12px;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 figcaption {
@@ -72,10 +55,22 @@ ul {
   line-height: 3.5rem;
 }
 
+h3 {
+  padding: 20px;
+}
+
 blockquote {
   font-style: italic;
   text-align: left;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
 }
