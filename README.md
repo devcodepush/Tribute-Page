@@ -1,6 +1,6 @@
 # Tribute Page
 
-Click [here](https://armanpartovi.github.io/Tribute-Page/) to see the website of this project.
+Click [here](https://devcodepush.github.io/Tribute-Page/) to see the website of this project.
 
 A chance to apply all of my skills, principles, and concepts I have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 
