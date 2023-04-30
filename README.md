@@ -2,33 +2,37 @@
 
 Click [here](https://devcodepush.github.io/Tribute-Page/) to see the website of this project.
 
-A chance to apply all of my skills, principles, and concepts I have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
+## Structure
 
+<html>
+    <head>
+    </head>
+    <body>
+        <header> [...] </header>
+        <main> [...] </main>
+        <footer> [...] </footer>
+    </body>
+</html>
 
 ## Getting Started
 
-Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+First create the base HTML structure >> SHift + 1 + Enter
 
-### Prerequisites
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
 
-What things you need to install 
+## Creating CSS file and attachment link in HTML inside head
 
-```
-vs code(last version)
-Google search,your second task for any doubts and problems
-```
+Create a CSS file named styles.css
+Create an attachment link for the stylesheet: <link rel="stylesheet" type="text/css" href="styles.css" />
 
-## Authors
-
-* **Arman Partovifar** - *portfolio* - [Personal-Portfolio-Webpage
-](https://github.com/armanpartovi/Personal-Portfolio-Webpage)
-
-See also the list of my proects [contributors](https://github.com/armanpartovi?tab=repositories) till now.
-
-## License
-
-This projects does not have an licence.
-
-## Acknowledgments
-
-Lets keep coding! Thanks for visiting.

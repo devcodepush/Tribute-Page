@@ -1,76 +1,53 @@
 html {
-  font-size: 10px;
+  background-color: white;
+  margin: 7px 0.1px;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
-    "Helvetica Neue", Arial, sans-serif;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  text-align: center;
-  color: #333;
-}
-
-main {
-  margin: 30px 0 30px 0;
-  background: #eee;
-  background-color: rgba(211, 211, 211, 0.493);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: rgba(128, 128, 128, 0.151);
+  margin: 30px 15px;
+  padding: 2px;
+  border-radius: 10px;
 }
 
 header {
-  padding-top: 20px;
-}
-
-header > h1 {
-  font-size: 4rem;
-  line-height: 1.2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
 }
 
 figure {
-  background: white;
-  padding: 0 12px 12px 12px;
-  margin-left: 12px;
-  margin-right: 12px;
+  background-color: white;
+  padding: 20px 130px;
+  border-radius: 10px;
 }
 
-img {
-  height: auto;
-  max-width: 100%;
-  display: block;
-  margin: 0 auto;
-}
-
-figcaption {
-  font-size: 1.4rem;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-ul {
-  line-height: 1.6;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+main {
   text-align: left;
-  line-height: 3.5rem;
+  padding: 5px 350px
 }
 
-h3 {
-  padding: 20px;
-}
-
-blockquote {
-  font-style: italic;
+footer {
   text-align: left;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 5px 350px
 }
 
-a {
-  color: #477ca7;
+footer>p {
+  line-height: 22px;
 }
 
-a:visited {
-  color: #74638f;
+#timeline-heading {
+  text-align: center;
+}
+
+#tribute-info li {
+  line-height: 2rem;
+}
+
+#wikipedia {
+  text-align: center;
+  font-size: 1.2rem;
 }
