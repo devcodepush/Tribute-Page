@@ -1,23 +1,6 @@
-## Tribute Page Link
+# Hi! 👋
 
-Click [here](https://devcodepush.github.io/Tribute-Page/) to see the web page for this project.
+## 🚀 Tribute Page Link
 
-## Introduction
-
-This project is a tribute page for Dr. Norman Borlaug, created by devcodepush as a project for freeCodecamp with HTML and CSS files.
-
-## Table of Contents
-- [Tribute Page Link](#tribute-page-link)
-- [Installation](#installation)
-
-
-## Installation
-To install this project, you can clone the repository using Git:
-
-```bash
-git clone https://github.com/devcodepush/tribute-page.git
-
-Alternatively, you can download the project files as a ZIP archive and extract them to your desired location on your computer.
-
-Once you have the project files on your computer, simply open the `index.html` file in a web browser to view the tribute page.
+Click on this [link](https://devcodepush.github.io/Tribute-Page/)
 
