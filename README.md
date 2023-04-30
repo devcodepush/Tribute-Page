@@ -4,7 +4,7 @@ Click [here](https://devcodepush.github.io/Tribute-Page/) to see the web page fo
 
 ## Introduction
 
-This project is a tribute page for Dr. Norman Borlaug, who is known as the man who saved a billion lives. The page is built with HTML and styled with CSS.
+This project is a tribute page for Dr. Norman Borlaug, created by devcodepush as a project for freeCodecamp with HTML and CSS files.
 
 ## Table of Contents
 - [Tribute Page Link](#tribute-page-link)
