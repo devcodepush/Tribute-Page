@@ -20,8 +20,8 @@ git clone https://github.com/devcodepush/tribute-page.git
 
 Alternatively, you can download the project files as a ZIP archive and extract them to your desired location on your computer.
 
-##Usage
+## Usage
 Once you have the project files on your computer, simply open the `index.html` file in a web browser to view the tribute page.
 
-##Credits
+## Credits
 This project was created by devcodepush as a project for freeCodeCamp
