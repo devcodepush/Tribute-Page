@@ -1,8 +1,8 @@
-# Tribute Page Link
+## Tribute Page Link
 
-Click [here](https://devcodepush.github.io/Tribute-Page/) to see the website of this project.
+Click [here](https://devcodepush.github.io/Tribute-Page/) to see the web page for this project.
 
-# Tribute Page for Dr. Norman Borlaug
+## Tribute Page for Dr. Norman Borlaug
 
 This project is a tribute page for Dr. Norman Borlaug, who is known as the man who saved a billion lives. The page is built with HTML and styled with CSS.
 
@@ -18,7 +18,6 @@ To install this project, you can clone the repository using Git:
 
 ```bash
 git clone https://github.com/devcodepush/tribute-page.git
-
 
 Alternatively, you can download the project files as a ZIP archive and extract them to your desired location on your computer.
 
