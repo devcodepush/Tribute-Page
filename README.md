@@ -9,8 +9,7 @@ This project is a tribute page for Dr. Norman Borlaug, who is known as the man w
 ## Table of Contents
 - [Tribute Page Link](#tribute-page-link)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
+
 
 ## Installation
 To install this project, you can clone the repository using Git:
